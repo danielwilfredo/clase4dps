@@ -124,19 +124,19 @@ export default function App() {
       <Text
         style={{ fontSize: 32 }}
       >{`La Sumatoria de ${numero1} + ${numero2} = ${suma}`}</Text>
-      {""}
+ 
       <Text
         style={{ fontSize: 32 }}
       >{`La Resta de ${numero1} - ${numero2} = ${resta}`}</Text>
-      {""}
+    
       <Text
         style={{ fontSize: 32 }}
       >{`La Multiplicacion de ${numero1} x ${numero2} = ${multi}`}</Text>
-      {""}
+  
       <Text
         style={{ fontSize: 32 }}
       >{`La Division de ${numero1} / ${numero2} = ${divi}`}</Text>
-      {""}
+   
       <Text style={styles.textoCentrado}>Ejercicio clase 4 DPS</Text>
       <Text style={styles.textoCentrado}>Universidad Don Bosco</Text>
       <Text style={styles.textoCentrado}>
